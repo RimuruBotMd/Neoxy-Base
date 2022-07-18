@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // MY OTHERS
-global.owner = ['6283834558105']
-global.premium = ['6283834558105']
-global.botname = 'Neoxy Bot'
-global.packname = 'Bot Whatsapp'
-global.author = 'Neoxy Team'
+global.owner = ['6288980870067']
+global.premium = ['6288980870067']
+global.botname = 'Siesta Bot'
+global.packname = 'Siesta Md'
+global.author = 'Siesta Md'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.footer = '© Created By Lexxy Official'
+global.footer = '© Created By Sabil Official'
 global.sp = '⭔'
 global.limitawal = {
 premium: "Infinity",
